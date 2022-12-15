@@ -1,0 +1,15 @@
+/* pàrraf de color roig */
+h1{
+    color: red;
+}
+
+/* identificar id */
+
+p#parraf_especial{
+    color: green;
+}
+
+
+p#parrafoespecial{
+    color: yellow;
+}
