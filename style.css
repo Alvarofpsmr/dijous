@@ -23,4 +23,10 @@ p.blau{
     color: blue;
 }
 
+p.especial1{
+    font-style: oblique;
+}
 
+p.especial1{
+    color: red;
+}
