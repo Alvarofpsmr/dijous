@@ -1,12 +1,12 @@
-p.blau{
+id#identificador{
     color: blue;
 }
 
-p.verd{
+p{
     color: green;
 }
 
-p.roig{
+p.navegador{
     color: red;
 }
 
